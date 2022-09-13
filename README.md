@@ -5,7 +5,7 @@
 * :woman_technologist: I’m currently a sophomore at IIM Digital School
 * :brain: I’m currently learning CSS, JS, PHP
 * <!-- you can see my work in my "xx" repository here (lien)-->
-* 📫 How to reach me: sixtine.delvallee@gmail.com
+* 📫 How to reach me: sixtine.delvallee@gmail.com or sixtine.delvallee@edu.devinci.fr
 
 
 #### :heavy_plus_sign: Add me on LinkedIn:
@@ -14,11 +14,11 @@
 
 ### :eyes: Bonus info about me:
 
-#### Hobbies:
+#### :sparkling_heart: Hobbies:
 * <!-- crazy about mangas & animes -->
 *
 
-#### What I like to listen to:
+#### :headphones: What I like to listen to:
 <!--
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5D5fiDX8MhK3lfHJmZZmpt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 -->
