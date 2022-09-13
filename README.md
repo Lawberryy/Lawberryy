@@ -2,12 +2,14 @@
 
 ## IIM Digital School student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+* :pencil2: I’m currently a sophomore student at IIM Digital School
+* 🌱 I’m currently learning ...
+* 📫 How to reach me: sixtine.delvallee@gmail.com
 
 
 ## Add me on LinkedIn:
+
+![logo linkedin](https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png)
 
 <!--
 **Lawberryy/Lawberryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
