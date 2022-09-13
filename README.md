@@ -3,7 +3,7 @@
 ## IIM Digital School student
 
 * :pencil2: I’m currently a sophomore student at IIM Digital School
-* 🌱 I’m currently learning ...
+* 🌱 I’m currently learning CSS, JS, PHP
 * 📫 How to reach me: sixtine.delvallee@gmail.com
 
 
