@@ -1,4 +1,13 @@
-### Hi I'm Sixtine 👋 Welcome to my profile!
+# Hi I'm Sixtine 👋 Welcome to my profile!
+
+## IIM Digital School student
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+
+
+## Add me on LinkedIn:
 
 <!--
 **Lawberryy/Lawberryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
