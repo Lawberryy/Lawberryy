@@ -24,6 +24,7 @@
 
 ![GA](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
+***
 
 #### :heavy_plus_sign: Add me on LinkedIn:
 
@@ -39,12 +40,13 @@
 * Learning 🇯🇵 and 🇰🇷 langages on my free time
 * (And I like cats... meow :cat:)
 
-#### :headphones: What I like to listen to:
+<!-- #### :headphones: What I like to listen to: -->
 
 <!--
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5D5fiDX8MhK3lfHJmZZmpt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4?si=HGUpvysoQi6Sl8CCCdYyqA)
 -->
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt?si=a2f264e408e24d98)
+
+***
 
 #### :thinking: Quotes that I find inspiring:
 
