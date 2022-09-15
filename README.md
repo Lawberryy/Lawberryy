@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Sixtine :wave: Welcome to my profile! :slightly_smiling_face:</h1>
 
+<p align="center">
+<img alt="waving-luffy" width="400" src="https://c.tenor.com/TUvcFjOqnG0AAAAC/cute-adorable.gif">
+</p>
+
 <h3 align="center">Student in coding & digital innovation :woman_student:</h3>
 
 <br>
