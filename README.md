@@ -57,7 +57,7 @@
 
 > 'When do you think people die? When they are shot in the heart with a pistol? No. When they are ravaged by an uncurable disease? No. [...] It’s when... they are forgotten!' - Dr. Hiluluk
 
-
+Yes... these are all from One Piece :pirate_flag:
 
 
 <!--
