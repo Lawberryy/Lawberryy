@@ -9,7 +9,7 @@
 <br>
 
 * :woman_technologist: I’m currently a sophomore at IIM Digital School
-* :brain: I’m currently learning **CSS, JS, PHP**
+* :brain: I’m currently learning **CSS, JS, PHP, Wordpress**
 <!-- * you can see my current and previous work here (lien)-->
 <!-- * Here (lien) you can find my projet de fin de première année (il n'est pas parfait, soyez indulgent :pray:)-->
 * 📫 **How to reach me:** sixtine.delvallee@gmail.com or sixtine.delvallee@edu.devinci.fr
