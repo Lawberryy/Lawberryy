@@ -9,7 +9,7 @@
 <br>
 
 * :woman_technologist: I’m currently a sophomore at IIM Digital School
-* :brain: I’m currently learning **CSS, JS, PHP, Wordpress**
+* :brain: I’m currently learning **CSS, JavaScript, Vue JS, PHP**
 <!-- * you can see my current and previous work here (lien)-->
 <!-- * Here (lien) you can find my projet de fin de première année (il n'est pas parfait, soyez indulgent :pray:)-->
 * 📫 **How to reach me:** sixtine.delvallee@gmail.com or sixtine.delvallee@edu.devinci.fr
@@ -23,6 +23,8 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
