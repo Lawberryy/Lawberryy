@@ -35,12 +35,18 @@
 
 ![GA](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Lawberryy&theme=onedark&hide_border=true) -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawberryy&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
 ***
 
 #### :heavy_plus_sign: Add me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sixtine-delvallee/)
-
 
 
 <h3 align="center">:eyes: Bonus info about me:</h3>
@@ -72,15 +78,4 @@ Yes... these are all from One Piece :pirate_flag:
 
 <!--
 **Lawberryy/Lawberryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
