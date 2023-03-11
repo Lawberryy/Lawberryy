@@ -9,7 +9,7 @@
 <br>
 
 * :woman_technologist: I’m a sophomore at IIM Digital School
-* :brain: I’m currently learning **CSS, JavaScript, Vue JS, PHP**
+* :brain: I’m currently learning **CSS, JavaScript, Vue JS, PHP, Symfony**
 * You can see my previous projects here: https://portfolio-lawberryy.vercel.app/
 * 📫 **How to reach me:** sixtine.delvallee@gmail.com or sixtine.delvallee@edu.devinci.fr
 
