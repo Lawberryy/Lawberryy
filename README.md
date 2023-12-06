@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sixtine :wave: Welcome to my profile! :slightly_smiling_face:</h1>
+<h1 align="center">Hi, I'm Sixtine :wave: Welcome to my profile!</h1>
 
 <p align="center">
 <img alt="waving-luffy" width="400" src="https://c.tenor.com/TUvcFjOqnG0AAAAC/cute-adorable.gif">
